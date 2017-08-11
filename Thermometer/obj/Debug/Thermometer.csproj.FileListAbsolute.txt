@@ -1,0 +1,9 @@
+c:\users\perti\documents\visual studio 2015\Projects\desktop\Thermometer\Thermometer\bin\Debug\Thermometer.exe.config
+c:\users\perti\documents\visual studio 2015\Projects\desktop\Thermometer\Thermometer\bin\Debug\Thermometer.exe
+c:\users\perti\documents\visual studio 2015\Projects\desktop\Thermometer\Thermometer\bin\Debug\Thermometer.pdb
+c:\users\perti\documents\visual studio 2015\Projects\desktop\Thermometer\Thermometer\obj\Debug\Thermometer.csprojResolveAssemblyReference.cache
+c:\users\perti\documents\visual studio 2015\Projects\desktop\Thermometer\Thermometer\obj\Debug\Thermometer.Form1.resources
+c:\users\perti\documents\visual studio 2015\Projects\desktop\Thermometer\Thermometer\obj\Debug\Thermometer.Properties.Resources.resources
+c:\users\perti\documents\visual studio 2015\Projects\desktop\Thermometer\Thermometer\obj\Debug\Thermometer.csproj.GenerateResource.Cache
+c:\users\perti\documents\visual studio 2015\Projects\desktop\Thermometer\Thermometer\obj\Debug\Thermometer.exe
+c:\users\perti\documents\visual studio 2015\Projects\desktop\Thermometer\Thermometer\obj\Debug\Thermometer.pdb
